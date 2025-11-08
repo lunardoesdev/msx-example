@@ -1,5 +1,7 @@
 # msx-example
 
+![](./screenshot.jpg)
+
 ## install nix
 determinate nix installer has flakes and nix-command enabled out of the box,
 otherwise you have to enable them manually. So I recommend the easy way of
